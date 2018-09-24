@@ -1,3 +1,12 @@
 nav.navbar {
   font-size: 18;
 }
+
+li {
+    transition: all .25s;
+}
+
+li:hover {
+  transition: all .25s;
+  font-size: 24;
+}
