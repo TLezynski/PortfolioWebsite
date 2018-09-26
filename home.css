@@ -10,3 +10,23 @@ li:hover {
   transition: all .25s;
   font-size: 24;
 }
+
+h1:nth-child(1){
+  padding-top: 50px;
+}
+
+#About {
+  transition: all .5s;
+  padding-top: 50px;
+  height: 1000px;
+  color: #fff;
+  background-color: #1E88E5;
+}
+
+#Projects {
+  transition: all .5s;
+  padding-top: 50px;
+  height: 1000px;
+  color: #fff;
+  background-color: #00bcd4;
+}
