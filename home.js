@@ -8,7 +8,3 @@ function scrollToElement(id){
   behavior: 'smooth'
   });
 }
-
-function test(){
-  window.scrollBy(0, 50);
-}
